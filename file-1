@@ -1,4 +1,5 @@
 then you can had a line of text
+<<<<<<< HEAD
 
 and again
 
@@ -10,3 +11,5 @@ are you working
 
 let's branch it!!!
 
+=======
+>>>>>>> parent of 31bd68f... test again
